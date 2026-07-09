@@ -5,6 +5,7 @@ __pycache__/
 *.pyc
 *.xlsx
 *.xls
+*.csv
 *.parquet
 data/raw/
 data/processed/
